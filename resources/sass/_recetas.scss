@@ -1,0 +1,14 @@
+.bg-primary .navbar-brand{
+    color: black;
+    
+    &:hover{
+        color:white;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    &:hover{
+        color: white;
+    }
+}
